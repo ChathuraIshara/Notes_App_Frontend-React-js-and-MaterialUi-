@@ -11,3 +11,34 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.demo
+{
+  background-color: red;
+}
+
+.drawer
+{
+  width:400px;
+}
+
+.root
+{
+  display:'flex';
+
+}
+
+.drawerPaper
+{
+  width:320;
+}
+
+.active
+{
+  background: #f4f4f4;
+}
+
+.appbar
+{
+  width: 'calc(100%-320)';
+}
